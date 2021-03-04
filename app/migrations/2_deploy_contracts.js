@@ -1,5 +1,6 @@
 const Registration = artifacts.require('Registration')
 const fs = require('fs')
+const path = '/../src/Metadata.js'
 
 module.exports = function (deployer) {
 // Use deployer to state migration tasks.

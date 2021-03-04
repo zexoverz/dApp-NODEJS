@@ -1,0 +1,21 @@
+{
+  "name": "dApp-NODEJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zexoverz/dApp-NODEJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zexoverz/dApp-NODEJS/issues"
+  },
+  "homepage": "https://github.com/zexoverz/dApp-NODEJS#readme"
+}

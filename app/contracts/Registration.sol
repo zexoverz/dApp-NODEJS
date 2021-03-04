@@ -28,6 +28,7 @@ contract Registration {
         uint8 _age
     ) public onlyOwner {
         users[_address] = User(_name, _age, true);
+        emit NewUser(_address, _name, _age);
     }
 
     function send(uint256 _value) public {

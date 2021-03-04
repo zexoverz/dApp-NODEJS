@@ -1,0 +1,11 @@
+node_modules
+
+app/node_modules
+
+app/coverage
+
+dist/*.js
+
+package-lock.json
+
+app/package-lock.json
