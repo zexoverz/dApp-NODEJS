@@ -60,4 +60,9 @@ Install the `node.js` and `truffle` globally.
     ```
     
  ### Result 
+ 
+ ![alt text](https://github.com/zexoverz/dApp-NODEJS/blob/master/result/CoverageTestDApp.png)
+ 
+ 
+ ![alt text](https://github.com/zexoverz/dApp-NODEJS/blob/master/result/gasReporterResult.png)
 
