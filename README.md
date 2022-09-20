@@ -1,6 +1,6 @@
 # Building Backend for dApp with Truffle, Node.js, and Webpack
 
-The goal of the project is to define a project structure to built a back-end for the dApp using node.js, truffle, and webpack. 
+The goal this repo is to define a project structure to built a back-end for the dApp using node.js, truffle, and webpack. 
 We will write a simple smart contract that will send some info to the blockchain and emit an event in the response of a successful transaction.
 
 The back-end will perform two main functions:
